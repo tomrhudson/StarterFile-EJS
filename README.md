@@ -1,3 +1,3 @@
-# Starter File for EJS
+# Template for EJS
 
 A template / starter file for EJS
